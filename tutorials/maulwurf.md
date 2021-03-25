@@ -58,7 +58,7 @@ Jetzt passen wir den Block dauerhaft so
 an, dass der Maulwurf zufällig links oder rechts auftaucht.
 Lege eine neue ``||variables.Variable||`` an und nenne sie ``Zufall``
 
-![Variablen anlegen](https://github.com/jasperp92/makecode-tutorials/assets/images/variablen.gif)
+![Variablen anlegen](https://raw.githubusercontent.com/jasperp92/makecode-tutorials/master/assets/images/variablen.gif)
 
 ## Step 4 
 
