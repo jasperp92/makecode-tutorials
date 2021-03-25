@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "tutorials/klavier.md",
-        "klavier.md"
+        "klavier.md",
+        "tutorials/*.md"
     ],
     "testFiles": [
         "test.ts"
