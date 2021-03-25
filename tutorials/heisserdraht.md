@@ -50,7 +50,7 @@ Wir wollen dem Spiel noch ein Punktesystem hinzufügen und zwei weitere Pins ver
 Zu allererst erstellen wir zwei Variablen. Eine für das Punktesystem und eine für die Abfrage, ob das Spiel gestartet wurde.  
 Klicke auf ``||variables.Variablen||`` und erstelle zwei mit den Namen ``Berührungen`` und ``Spielstart``.
 
-![alt text](https://raw.githubusercontent.com/jasperp92/heisser_draht2/master/images/variablen.gif)
+![alt text](https://raw.githubusercontent.com/jasperp92/makecode-tutorials/master/assets/images/variablen.gif)
 
 ## Step 4 
 
@@ -175,4 +175,4 @@ Du kannst du dich an den Aufbau machen, falls du es nicht schon vor der Programm
 Dazu findest du hier einen groben Aufbauplan.
 Viel Spaß!
 
-![Aufbauplan](https://raw.githubusercontent.com/jasperp92/heisser_draht2/master/images/spielaufbau.png)
+![Aufbauplan](https://raw.githubusercontent.com/jasperp92/makecode-tutorials/master/assets/images/bauplan.png)
