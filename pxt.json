@@ -9,9 +9,14 @@
         "main.blocks",
         "main.ts",
         "README.md",
+        "tutorials/lichtsirene.md",
+        "tutorials/heisserdraht.md",
+        "tutorials/maulwurf.md",
+        "tutorials/kipplicht.md",
         "tutorials/klavier.md",
-        "klavier.md",
-        "tutorials/*.md"
+        "tutorials/orakel.md",
+        "assets/images/variablen.gif",
+        "assets/images/bauplan.png"
     ],
     "testFiles": [
         "test.ts"
