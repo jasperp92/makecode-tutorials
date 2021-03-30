@@ -15,8 +15,11 @@
         "tutorials/kipplicht.md",
         "tutorials/klavier.md",
         "tutorials/orakel.md",
+        "tutorials/stoppuhr.md",
+        "tutorials/countdown.md",
         "assets/images/variablen.gif",
-        "assets/images/bauplan.png"
+        "assets/images/bauplan.png",
+        "assets/images/index.gif"
     ],
     "testFiles": [
         "test.ts"
