@@ -102,7 +102,7 @@ Falls nicht automatisch eine neue Index-Variable angelegt wurde, dann erstelle e
 neue Variable mit dem Namen **y-Index**, damit der Index für die x Reihe nicht der gleiche ist, wie für die y-Reihe.
 Klicke mit Rechtsklick auf die ``||variables.Index-Variable||``, um diese in **x-Index** umzubennen.
 
-![index.gif](url)
+![index.gif](https://raw.githubusercontent.com/jasperp92/makecode-tutorials/master/assets/images/index.gif)
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
